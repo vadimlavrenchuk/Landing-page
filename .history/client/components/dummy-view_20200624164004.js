@@ -14,7 +14,7 @@ class Dummy extends React.Component {
 
   render() {
     return (
-      <div id="container" className="red-container high superSizeExtraLArge">
+      <div id="container" className="red-container high superSizeExtraLArge" >
         <Head title="Hello" />
         <div> Hello World vadim  {this.state.counter} </div>
       </div>
